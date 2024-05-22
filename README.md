@@ -2,7 +2,7 @@
 
 Certainly! Deploying an end-to-end solution with Azure Kubernetes Service (AKS) and Azure API Management (APIM) involves several steps. Let’s break it down:
 
-Create an AKS Cluster:
+##Create an AKS Cluster:
 Set up an AKS cluster using Azure Resource Manager (ARM) templates or Azure CLI. You can use the ARM template to define your AKS infrastructure, including node pools, networking, and other configurations1.
 Ensure that your AKS cluster is up and running.
 Deploy Microservices to AKS:
